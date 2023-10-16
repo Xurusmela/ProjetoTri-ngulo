@@ -1,4 +1,4 @@
-# Validation um triangulo.
+# Validation um triangulo.##############
 
 # Entrada
 a = float(input('Digite o valor do lado a: '))
